@@ -1,5 +1,8 @@
 # LifeCicle
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20Em%20desenvolvimento&color=GREEN&style=for-the-badge)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
